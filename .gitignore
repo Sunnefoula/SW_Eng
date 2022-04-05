@@ -1,0 +1,14 @@
+.idea*
+*.DS_Store
+main_*
+try_things_out.py
+typing_test.py
+exception_example.py
+months.txt
+another_file.txt
+file_sample.txt
+sample_file.txt
+Animal.py
+app_post.py
+generatorsTuto.py
+decorators.py
